@@ -1,0 +1,14 @@
+{
+   "registeredemail":"john@gmail.com",
+   "city" : "Dallas",
+   "state" : "Texas",
+   "zip" : "75201",
+   "phone" : "1234567890",
+   "password" : "123",
+   "hhaaddress" : "123 Main St",
+   "invalidemail" : "james",
+   "invalidphone" : "234567890321"
+
+
+   
+}

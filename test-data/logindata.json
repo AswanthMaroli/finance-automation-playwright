@@ -1,0 +1,41 @@
+[
+    {
+        "test" : "Verify that user can login with valid credentials",
+        "useremail": "john@gmail.com",
+        "userpassword": "123"
+    },
+
+    {
+        "test" : "Verify that user can login with incorrect user credentials",
+        "useremail": "john111@gmail.com",
+        "userpassword": "123"
+    },
+
+    {
+        "test" : "Verify that user can login with email is null",
+        "useremail": "",
+        "userpassword": "123"
+    },
+
+    {
+        "test" : "Verify that user can login with password is null",
+        "useremail": "john@gmail.com",
+        "userpassword": ""
+    },
+  
+    {
+        "test" : "Verify that user can login with both email and password is null",
+        "useremail": "",
+        "userpassword": ""
+    },
+
+    {
+        "test" : "Verify that user can login with invalid email format",
+        "useremail": "john@.com",
+        "userpassword": "123"
+    }
+    
+
+
+
+]

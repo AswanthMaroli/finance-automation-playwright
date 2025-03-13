@@ -1,0 +1,33 @@
+[
+    {
+        "ID": 32,                                 
+        "Email": "aswanthaswu07@gmail.com",
+        "Password": "123",
+        "Name": "M Aswanth"
+    },
+    {
+        "Email": "aswanthaswu07@gmail.com"
+    },
+
+    {
+
+        "UserID":0,
+        "FirstName":"Aswanth",
+        "LastName":"approcker",
+        "HHAName":"Aswanth",
+        "HHAAddress":"testdallas",
+        "City":"dfdgf",
+        "State":"61",
+        "Zip":"2233",
+        "Email":"aswanthaswu007@gmail.com",
+        "Phone":"0677089756",
+        "Password":"123",
+        "UserStatus":0,
+        "SignupDate":null,
+        "LoginTypeID":0,
+        "ModifiedUser":0,
+        "Validation":true,
+        "Message":""
+
+    }
+]
