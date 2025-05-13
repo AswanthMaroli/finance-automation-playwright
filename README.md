@@ -54,7 +54,7 @@ npx playwright test
 
 #### Run Specific Test
 ```sh
-npx playwright test tests/functional/sample.test.js
+npx playwright test tests/functional/login.test.spec.js
 ```
 
 #### Run with UI Mode
